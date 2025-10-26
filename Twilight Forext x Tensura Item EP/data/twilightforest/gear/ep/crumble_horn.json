@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.03,
+  "item": "twilightforest:crumble_horn",
+  "maxEP": 10000,
+  "minEP": 6000
+}

@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.05,
+  "item": "twilightforest:mazebreaker_pickaxe",
+  "maxEP": 1000000,
+  "minEP": 225000
+}

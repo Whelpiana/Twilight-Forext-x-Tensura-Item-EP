@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.03,
+  "item": "twilightforest:ironwood_shovel",
+  "maxEP": 52000,
+  "minEP": 18000
+}

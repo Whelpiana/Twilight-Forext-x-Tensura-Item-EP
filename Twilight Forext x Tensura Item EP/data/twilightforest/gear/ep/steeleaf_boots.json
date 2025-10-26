@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.03,
+  "item": "twilightforest:steeleaf_boots",
+  "maxEP": 52000,
+  "minEP": 18000
+}

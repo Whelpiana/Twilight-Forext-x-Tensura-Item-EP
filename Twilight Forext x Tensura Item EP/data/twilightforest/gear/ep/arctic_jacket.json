@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.03,
+  "item": "twilightforest:arctic_chestplate",
+  "maxEP": 18000,
+  "minEP": 6000
+}

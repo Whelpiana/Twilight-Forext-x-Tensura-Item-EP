@@ -1,0 +1,7 @@
+{
+  "evolvingItem": "minecraft:air",
+  "gainEP": 0.03,
+  "item": "twilightforest:fiery_leggings",
+  "maxEP": 225000,
+  "minEP": 52000
+}
